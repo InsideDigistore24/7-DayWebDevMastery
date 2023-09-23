@@ -13,4 +13,4 @@ Not only will you learn the technical skills needed to create **stunning web app
 
 Don't miss out on this opportunity to kickstart your web development journey. Grab your copy of **"Full-Stack Web Development In 7 Days"** today and unlock the world of endless possibilities!
 
-[Get Started Now](https://www.digistore24.com/redir/490219/itachishare/)
+[Get Started Now](https://www.digistore24.com/redir/490219/itachishare/){:rel="nofollow"}
